@@ -1,6 +1,6 @@
-# Data_Story_Visualization
+# Tableau Data Story Visualizaion
 
-Here I designed a visual data story which includes the following elements:
+Here I designed a visual data story using Tableau which includes the following elements:
 
 * Title
 * Narrative
